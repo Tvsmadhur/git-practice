@@ -1,2 +1,2 @@
-console.log('10x')
+console.log('12x')
 console.log('3x')
